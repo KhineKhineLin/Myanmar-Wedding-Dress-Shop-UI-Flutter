@@ -1,4 +1,4 @@
-# wedding_dress_shop
+# Myanmar Wedding Dress Shop UI Flutter
 
 A new Flutter project.
 
